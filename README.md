@@ -4,6 +4,4 @@
 
 
 
-### 原版地址
-
-https://github.com/qyuhen/book
+WEB版本更新会有延迟，请查看 [PDF原版](https://github.com/qyuhen/book)
